@@ -1,38 +1,26 @@
-<center><h1>Git & GitHub - Explorando Colaboração e Markdown </h1></center>
+# 👋 Olá, eu sou Igor Moura!
 
-#### >> DESAFIO DE PROJETO <<
+Sou desenvolvedor de software com experiência desde 2019, atuando principalmente com tecnologias Microsoft. Tenho paixão por resolver problemas através da programação e estou sempre em busca de novos conhecimentos.
 
-Olá, visitante 👽! Sejam bem-vindos(as)! Espero que a sua jornada até aqui tenha sido repleta de grandes aprendizados. Agora, para testarmos tudo o que aprendemos sobre o Git e GitHub, seus processos de colaboração e a incrível linguagem Markdown 💞, proponho a vocês um super desafio. Vamos então entender o que teremos que fazer?
+## 💻 Tecnologias e Experiência
 
-**Objetivos:**
+- 💡 **Linguagens**: C#
+- 🗄️ **Banco de Dados**: Microsoft SQL Server
+- 🔁 **Migração de Dados**: Experiência com processos de ETL
+- ⚙️ **Ferramentas e Frameworks**: .NET, Visual Studio
+- 📈 **Boas Práticas**: Código limpo, versionamento com Git, foco em performance e legibilidade
 
-1. **Criar sua conta no Github:**
-   - Essencial para alcançarmos nossos objetivos.
+## 🚀 Sobre mim
 
-2. **Criar um Repositório:**
-   - Crie um novo repositório no GitHub, nomeando-o como "desafio-github-markdown" ou outro nome.
-   - Adicione o seu README.md ao criar o repositório.
-   - Utilize o Github.dev para editar seu projeto diretamente com o editor web do Github.
-   - Lembre-se: o repositório deve ser público.
+- 🧠 Sempre disponível para aprender e evoluir
+- 🤝 Gosto de colaborar com outros desenvolvedores e participar de projetos desafiadores
+- 📍 Aberto a oportunidades e contribuições em projetos open-source
 
-3. **Colaboração:**
-   - Adicione um colaborador ao seu repositório (pode ser um colega de curso ou você mesmo com uma conta diferente).
-   - Ambos devem fazer um clone do repositório em suas máquinas locais.
-   - Realizem alterações, Commits, abra issues e pull requests.
+## 📫 Contato
 
-4. **Formatação com Markdown:**
-   - Edite o arquivo "README.md" em seu repositório.
-   - Utilize a linguagem Markdown para formatar informações sobre o desafio, instruções e uma breve descrição do seu projeto.
+- ✉️ [igorpmoura2012@email.com]
+- 💼 [LinkedIn](https://www.linkedin.com/in/igor-moura-ab1765189/)
 
-<div align="center"><h2> Ao Infinito e Além: 🚀</h2></div>
+---
 
-<div align="center"><img src="https://i.pinimg.com/originals/6b/7e/d3/6b7ed39c3751c92df2d3ece16a329925.gif") /></div>
-
-
-Como desafio extra, sugiro que vocês se autentiquem utilizando algum método de segurança oferecido pelo Github, afinal, segurança é fundamental 🔒.
-
-Crie branches para o seu projeto e realizem merge das alterações. Treinem os comandos do Git, afinal, eles fazem parte do dia a dia de um desenvolvedor(a) colaborativo 😉.
-
-Ahhh e quero ver o README do Perfil bem legal ein?! 😎
-
-Então... bons estudos!!
+Obrigado por visitar meu perfil! 😄
