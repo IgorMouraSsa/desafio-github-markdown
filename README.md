@@ -18,8 +18,8 @@ Sou desenvolvedor de software com experiência desde 2019, atuando principalment
 
 ## 📫 Contato
 
-- ✉️ [igorpmoura2012@email.com]
-- 💼 [LinkedIn](https://www.linkedin.com/in/igor-moura-ab1765189/)
+- ✉️ [igorpmoura2012@gmail.com]
+- 💼 [Meu Linkedin](https://www.linkedin.com/in/igor-moura-ab1765189/)
 
 ---
 
